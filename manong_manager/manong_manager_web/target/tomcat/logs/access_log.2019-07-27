@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:14 +0800] "GET / HTTP/1.1" 200 1984 http-bio-8080-exec-1 1237
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:14 +0800] "GET /css/themes/icon.css HTTP/1.1" 200 2506 http-bio-8080-exec-2 140
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:14 +0800] "GET /css/themes/default/easyui.css HTTP/1.1" 200 74798 http-bio-8080-exec-3 156
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /js/jquery.min.js HTTP/1.1" 200 97163 http-bio-8080-exec-4 267
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /js/jquery.easyui.min.js HTTP/1.1" 200 457293 http-bio-8080-exec-5 321
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /css/themes/default/images/tree_icons.png HTTP/1.1" 200 3115 http-bio-8080-exec-9 26
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /css/themes/default/images/blank.gif HTTP/1.1" 200 43 http-bio-8080-exec-8 13
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /css/themes/default/images/panel_tools.png HTTP/1.1" 200 852 http-bio-8080-exec-10 23
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /css/themes/default/images/layout_arrows.png HTTP/1.1" 200 319 http-bio-8080-exec-7 17
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:15 +0800] "GET /css/themes/default/images/tabs_icons.png HTTP/1.1" 200 150 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:27 +0800] "GET /hello HTTP/1.1" 200 29 http-bio-8080-exec-5 120
+0:0:0:0:0:0:0:1 - - [27/Jul/2019:21:20:34 +0800] "GET /hi HTTP/1.1" 200 98 http-bio-8080-exec-2 128
